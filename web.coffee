@@ -1,5 +1,5 @@
-gzippo = require 'gzippo'
-express = require 'express'
+gzippo = require '/gzippo'
+express = require '/express'
 
 app = express()
 app.use express.logger 'dev'
