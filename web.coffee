@@ -1,4 +1,4 @@
-gzippo = require '/gzippo'
+gzippo = require './node_modules/gzippo'
 express = require '/express'
 
 app = express()
