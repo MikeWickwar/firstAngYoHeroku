@@ -7,7 +7,6 @@ version 0.15.1.
 
 Run `grunt` for building and `grunt serve` for preview.
 
-using heroku to deploy
 
 ## Testing
 
